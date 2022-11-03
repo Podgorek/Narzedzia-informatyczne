@@ -17,7 +17,9 @@ przykładowa lista numeryczna
 3. Ccc
 
 
-`print<"Hello World">`
+```p
+print<"Hello World">
+```
 
 |tabela     |probna          |12345  |
 |-----------|:--------------:|-------|
