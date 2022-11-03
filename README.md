@@ -15,5 +15,6 @@ przykładowa lista numeryczna
 1. Aaa
 2. Bbb
 3. Ccc
-prosze zadzialaj
+
+
 `print<"Hello World">`
