@@ -20,3 +20,9 @@ przykładowa lista numeryczna
 `print<"Hello World">`
 
 ![zdjecie psa](animals/dog.jpg)
+
+zadanie 11 - dodatkowe
+
+![zdjecie kota](animals/cat.jpg)
+
+zdjecie kota
