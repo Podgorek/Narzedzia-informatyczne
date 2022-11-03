@@ -19,6 +19,12 @@ przykładowa lista numeryczna
 
 `print<"Hello World">`
 
+|tabela     |probna          |12345  |
+|-----------|:--------------:|-------|
+|tabelka    |proba           |12321  |
+|tabelowanie|sprobowac mozna |123    |
+|tablowanie |probowanie      |321    |
+
 ![zdjecie psa](animals/dog.jpg)
 
 zadanie 11 - dodatkowe
