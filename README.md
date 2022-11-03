@@ -18,3 +18,4 @@ przykładowa lista numeryczna
 
 
 `print<"Hello World">`
+![zdjecie psa](animals/dog.jpg)
