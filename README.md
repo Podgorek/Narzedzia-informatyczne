@@ -4,7 +4,7 @@
 ##### Nagłówek 3
 Link [https://www.youtube.com](url)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![To jest zdjecie](https://myoctocat.com/assets/images/base-octocat.svg)
 
 przykładowa lista nienumeryczna
 - Aaa
