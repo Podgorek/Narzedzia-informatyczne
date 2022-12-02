@@ -1,8 +1,6 @@
 # Narzedzia-informatyczne
-# Nagłówek 1
-### Nagłówek 2
-##### Nagłówek 3
-Link [https://www.youtube.com](url)
+
+[Link do mojej strony](https://podgorek.github.io)
 
 
 przykładowa lista nienumeryczna
