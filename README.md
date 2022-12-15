@@ -1,5 +1,7 @@
 # Narzedzia-informatyczne
 
+[Link do repozytorium dotyczące artykułu na zajęcia](https://github.com/facebookresearch/TransCoder)
+
 [Link do mojej strony](https://podgorek.github.io)
 
 
